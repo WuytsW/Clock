@@ -11,7 +11,7 @@ let desc;
 let temp;
 let pm;
 
-let city = "Leuven";
+let city = "Duffel";
 let cities = ["Benimaclet", "Duffel", "Leuven"];
 let cityUpdated = false;
 
